@@ -81,4 +81,4 @@ Edite no topo do arquivo:
 ---
 
 ## Licença
-Defina a licença do projeto (ex.: MIT) conforme necessidades do grupo.
+Distribuído sob a licença MIT.
